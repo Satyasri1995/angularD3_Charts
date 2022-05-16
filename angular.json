@@ -33,7 +33,11 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/d3.v3.min.js",
+              "src/assets/js/d3.layout.cloud.js",
+              "src/assets/js/wordCloud.js"
+            ]
           },
           "configurations": {
             "production": {
